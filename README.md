@@ -10,10 +10,10 @@ A curated list of apps, services, blogs, and newsletters I use or recommend. Cov
 - [🏠 Homelab Apps & Services](#-homelab-apps--services)
 - [🤖 AI Apps & Services](#-ai-apps--services)
 - [🛜 Networking Apps & Services](#-networking-apps--services)
-- [🔐 Privacy/Security Apps & Services](#-privacy-security-apps--services)
+- [🔐 Privacy/Security Apps & Services](#-privacy/security-apps--services)
 - [🧠 Productivity Apps & Services](#-productivity-apps--services)
 - [📰 Newsletters](#-newsletters)
-- [🌐 Useful Websites](#useful-websites)
+- [🌐 Useful Websites](#-useful-websites)
 
 ## 🔧 Developer Tools
 
