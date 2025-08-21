@@ -9,11 +9,12 @@ A curated list of apps, services, blogs, and newsletters I use or recommend. Cov
 - [🔧 Developer Tools](#-developer-tools)
 - [🏠 Homelab Apps & Services](#-homelab-apps--services)
 - [🤖 AI Apps & Services](#-ai-apps--services)
+- [🌐 Browsers](#browsers)
 - [🛜 Networking Apps & Services](#-networking-apps--services)
-- [🔐 Privacy/Security Apps & Services](#-privacy/security-apps--services)
+- [🔐 Privacy/Security Apps & Services](#-privacysecurity-apps--services)
 - [🧠 Productivity Apps & Services](#-productivity-apps--services)
 - [📰 Newsletters](#-newsletters)
-- [🌐 Useful Websites](#-useful-websites)
+- [🖥️ Useful Websites](#-useful-websites)
 
 ## 🔧 Developer Tools
 
@@ -31,11 +32,12 @@ A curated list of apps, services, blogs, and newsletters I use or recommend. Cov
 
 ## 🏠 Homelab Apps & Services
 
-- **[Proxmox](https://www.proxmox.com/)** — Proxmox Virtual Environment is a complete and easy to use Open Source virtualization platform for running Virtual Appliances and Virtual Machines. Proxmox VE tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking functionality on a single platform, and easily manages high availability clusters and disaster recovery tools with the built-in web management interface. 
+- **[Proxmox](https://www.proxmox.com/)** — Proxmox Virtual Environment is a complete and easy to use Open Source virtualization platform for running Virtual Appliances and Virtual Machines. Proxmox VE tightly integrates KVM hypervisor and LXC containers, software-defined storage and networking functionality on a single platform, and easily manages high availability clusters and disaster recovery tools with the built-in web management interface.
 - **[Cockpit](https://cockpit-project.org/)** — Makes it easy to administer Linux servers via a web browser. It allows you to easily perform simple tasks like storage administration, inspecting journals, starting & stopping services, monitoring & administering several servers at once.
 - **[Nginx Proxy Manager](https://nginxproxymanager.com/)** — This project comes as a pre-built docker image that enables you to easily forward to your websites running at home or otherwise, including free SSL, without having to know too much about Nginx or Letsencrypt.
 - **[Portainer](https://www.portainer.io/)** — Portainer Community Edition is a lightweight service delivery platform for containerized applications that can be used to manage Docker, Swarm, and Kubernetes environments. It is designed to be as simple to deploy as it is to use.
 - **[Glance](https://github.com/glanceapp/glance)** — A self-hosted dashboard that puts all your feeds in one place.
+- **[Authentik](https://github.com/goauthentik/authentik)** - Authentik is an open-source Identity Provider focused on flexibility and versatility.
 
 ## 🤖 AI Apps & Services
 
@@ -49,6 +51,11 @@ Meet ChatLLM: a next-generation AI chat assistant built on the most advanced lan
 - **[Hugging Face](https://huggingface.co/)** — Hugging Face is an online community dedicated to advancing AI and democratizing good machine learning. Hugging Face empowers the field of AI through various open-source developments, free and low-cost hosting of machine learning resources and by providing an accessible and featureful online hub for communication and sharing.
 - **[Enclave](https://enclaveai.app/)** — Bring powerful AI models directly to your device, ensuring that your personal data and conversations stays with you and isn't shared with third parties. All processing is done locally with zero data tracking. No internet needed. Your creativity is the limit.
 - **[Freepik AI](https://www.freepik.com/)** — Explore Freepik AI Suite's sketch-to-image converter, video generator, image enhancer, and background remover. Create and edit stunning images using AI-powered tools, for seamless and efficient creativity without ads. Perfect for image editing and AI generation enthusiasts.
+
+## 🖥️ Browsers
+
+- **[Brave](https://brave.com/download/)** - Fast, secure browser integrating ad and tracker blockage, privacy features, and VPN. Offers seamless performance with data and battery optimization, faster loads by blocking pop-ups and ads. Safeguards user privacy with tracking protections and built-in brave search.
+- **[DuckDuckGo Privacy Browser](https://duckduckgo.com/app)** - Privacy-focused open-source smartphone browser by DuckDuckGo blocks trackers, enforces encrypted connections, and provides a Privacy Grade. Partners with 'Terms of Service Didn't Read' and offers features like tabs, bookmarks, and autocomplete, keeping search data private.
 
 ## 🛜 Networking Apps & Services
 
@@ -70,12 +77,15 @@ Meet ChatLLM: a next-generation AI chat assistant built on the most advanced lan
 
 ### 📰 Newsletters
 
- - **[The Rundown AI](https://www.therundown.ai)** - Get the latest AI news, understand why it matters, and learn how to apply it in your work — all in just 5 minutes a day.
-
+- **[The Rundown AI](https://www.therundown.ai)** - Get the latest AI news, understand why it matters, and learn how to apply it in your work — all in just 5 minutes a day.
 - **[There's an AI for that](https://theresanaiforthat.com)** - AI directory, providing the most extensive collection of AI tools across industries, tasks, and use cases.
-
 - **[Selfh.st](https://selfh.st)** - An independent publication created and curated by Ethan Sholly. Focused on self-hosted news, updates, and content.
 
 ### 🌐 Useful Websites
 
+<details>
+ <summary>Apps</summary>
+
 - **[AlternativeTo](https://alternativeto.net)** - AlternativeTo is a crowd-sourced and free site that helps you find better apps and services. [Sign up](https://alternativeto.net/api/auth/signup/) and help others find great apps!
+
+</details>
